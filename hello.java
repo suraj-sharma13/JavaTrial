@@ -6,4 +6,9 @@ public class Main{
 		int c = a + b;
 		return c;
 	}
+
+	public static int subtractNum(int a, int b){
+		int c = a - b;
+		return c;
+	}
 }
